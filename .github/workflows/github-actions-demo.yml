@@ -19,3 +19,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "This is my custom Job"
+      - run: echo "Something more"
